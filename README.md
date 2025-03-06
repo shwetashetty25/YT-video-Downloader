@@ -39,4 +39,4 @@ Notes
 Automatically downloads and converts audio with FFmpeg. Please download it first
 If anything goes wrong, check your internet connection and whether the URL is correct.
 Works on Windows, macOS, and Linux.
-✅ Have fun downloading your favorite videos with ease! ???? likecopy
+✅ Have fun downloading your favorite videos with ease! ????
